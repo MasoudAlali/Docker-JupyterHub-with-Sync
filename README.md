@@ -1,5 +1,5 @@
 # Docker JupyterHub with Sync
-**Dockerize Jupyter Hub** with **Sync** Feature and **Google Login**
+**Dockerized Jupyter Hub** with **Sync** Feature and **Google Login**
 - Dockerize and Easy to Start
 ```bashscript
 docker build -t cnlab:v1 .
